@@ -1,20 +1,19 @@
 
 
 Staus of Last Deployment:<br>
-<ing scr="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+<img scr="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
 
 
+    
   
   
-  
-  
-#[![Flatris](flatris.png)](https://flatris.space/)
+<!-- [![Flatris](flatris.png)](https://flatris.space/) -->
 
 
 
-[![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
+<!-- [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris) -->
 
-> **Work in progress:** Flatris has been recently redesigned from the ground up and turned into a multiplayer game with both UI and server components. This has been an interesting journey and I plan to document the architecture in depth. **[Stay tuned](https://twitter.com/skidding)**.
+<!-- > **Work in progress:** Flatris has been recently redesigned from the ground up and turned into a multiplayer game with both UI and server components. This has been an interesting journey and I plan to document the architecture in depth. **[Stay tuned](https://twitter.com/skidding)**.
 
 [![Flatris](flatris.gif)](https://flatris.space/)
 
@@ -22,7 +21,7 @@ Staus of Last Deployment:<br>
 
 Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat design!
 
-Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
+Also see [elm-flatris](https://github.com/w0rm/elm-flatris). -->
 
 
 ## Setup and running
@@ -35,7 +34,4 @@ yarn start
 ```
 
 Go to http://localhost:3000
-  
-  
-Staus of Last Deployment:<br>
-<ing scr="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+   
