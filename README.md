@@ -1,4 +1,12 @@
+
+
+Staus of Last Deployment:<br>
+<ing scr="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+
+
 [![Flatris](flatris.png)](https://flatris.space/)
+
+
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
 
