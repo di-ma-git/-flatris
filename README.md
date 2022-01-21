@@ -35,3 +35,7 @@ yarn start
 ```
 
 Go to http://localhost:3000
+  
+  
+  Staus of Last Deployment:<br>
+<ing scr="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
