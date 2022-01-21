@@ -8,7 +8,7 @@ Staus of Last Deployment:<br>
   
   
   
-[![Flatris](flatris.png)](https://flatris.space/)
+#[![Flatris](flatris.png)](https://flatris.space/)
 
 
 
@@ -37,5 +37,5 @@ yarn start
 Go to http://localhost:3000
   
   
-  Staus of Last Deployment:<br>
+Staus of Last Deployment:<br>
 <ing scr="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
