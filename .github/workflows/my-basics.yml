@@ -40,6 +40,12 @@ jobs:
           echo "Aplication name: ${{ env.APPLICATION_NAME }}"
       - name: List current folder
         run: ls -ali
+       
+      - name: Git clone my repo
+        uses: action/checkout@v1
+        
+      - name: List current folder
+        run: ls -ali     
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
@@ -64,6 +70,13 @@ jobs:
         
       - name: Printing Deployment package
         run: echo "Deploy package name is ${{ env.DEPLOY_PACKAGE_NAME }}"
+
+      - name: Lets test some packages if they are here 1
+        run: aws --version
+        
+      - name: Lets test some packages if they are here 2
+        run: zip       
+        
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
