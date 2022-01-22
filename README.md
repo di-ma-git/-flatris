@@ -1,7 +1,7 @@
 
 
 ### Staus of Last Deployment:<br>
-<img src="https://github.com/di-ma-git/flatris/.github/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+<img src="https://github.com/di-ma-git/flatris/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
 
 
     
